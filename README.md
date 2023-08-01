@@ -39,4 +39,4 @@ You may demostrate your final funtioning prototype with **one and only one** of 
 
 ### To run:
 - Go to backend, run command `npm start`
-- Go to frontend, run command `npm start`
+- Go to frontend, run command `npm install`, and then `npm start`
