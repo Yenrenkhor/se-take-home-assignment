@@ -36,3 +36,7 @@ You may demostrate your final funtioning prototype with **one and only one** of 
 - Testing, testing and testing. Make sure the prototype is functioning and meeting all the requirements.
 - Do not over engineering. Try to scope your working hour within 3 hours (1 hour per day). You may document all the optimization or technology concern that you think good to bring in the solution.
 - Complete the implementation as clean as possible, clean code is a strong plus point, do not bring in all the fancy tech stuff.
+
+### To run:
+- Go to backend, run command `npm start`
+- Go to frontend, run command `npm start`
